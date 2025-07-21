@@ -1,4 +1,3 @@
-```markdown
 # Social Network Analysis Algorithm - Phase 2
 
 ## Project Description
@@ -16,7 +15,7 @@ This repository contains the Proof of Concept implementation for Phase 2 of the 
 1. Clone the repository:
 ```bash
 git clone git@github.com:H33ME/phase-2-social-network-analysis-algorithm-project.git
-```
+
 
 2. Run the demonstration:
 ```bash
